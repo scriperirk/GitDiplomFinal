@@ -11,14 +11,12 @@
 ## Документация
 
 * **[План тестирования,Чек-лист,Тест-кейсы]**
-
-  *** https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing ***
-  *** https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln *** 
+  [Google] - https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing
+  [GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln 
 
 * **[Результаты - allure-results]**
-
-  *** https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing ***
-  *** https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln ***
+  [Google] - https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing
+  [GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln
 
 
 ## Шаги запуска тестирования
