@@ -1,0 +1,89 @@
+{
+    "name": "Авторизация с валидным логином и паролем",
+    "start": 1702201524656,
+    "stop": 1702201539271,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Ввод логина login2 и пароля password2",
+            "start": 1702201535430,
+            "stop": 1702201535430,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Открытия страницы Main",
+            "start": 1702201538152,
+            "stop": 1702201538152,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "95de4846-2f11-4dd8-b816-663cffd4d1dc",
+    "historyId": "edd069f9a2dcc0ec21fd1b359bef8844",
+    "fullName": "AndroidTest.tests.AutorizationTest.correctLoginAndPasswordAuthorizationTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.AutorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "correctLoginAndPasswordAuthorizationTest"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.AutorizationTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(59)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование авторизации"
+        }
+    ]
+}

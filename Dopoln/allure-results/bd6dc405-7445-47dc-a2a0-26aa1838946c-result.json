@@ -1,0 +1,89 @@
+{
+    "name": "Переходим в раздел Новости с помощью бокового меню",
+    "start": 1702202694485,
+    "stop": 1702202707725,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Переходим в раздел Новости с помощью бокового меню",
+            "start": 1702202705237,
+            "stop": 1702202705237,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Проверяем видимость кнопки перехода в Новости",
+            "start": 1702202706922,
+            "stop": 1702202706922,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "bd6dc405-7445-47dc-a2a0-26aa1838946c",
+    "historyId": "241890d9608c6ff3f67a105f6d8e6fcb",
+    "fullName": "AndroidTest.tests.HomePageTest.goToNewsInTheSideMenu",
+    "labels": [
+        {
+            "name": "package",
+            "value": "AndroidTest.tests"
+        },
+        {
+            "name": "testClass",
+            "value": "AndroidTest.tests.HomePageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "goToNewsInTheSideMenu"
+        },
+        {
+            "name": "suite",
+            "value": "AndroidTest.tests.HomePageTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(59)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Тестирование главной страницы"
+        }
+    ]
+}
