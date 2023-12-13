@@ -14,13 +14,13 @@
 
   **[Google] - https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing**
   
-  **[GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln** 
+  **[GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/b780483aa64730e1a783a5de152e1c5625ca8c28/Dopoln** 
 
 * **[Результаты - allure-results]**
 
   **[Google] - https://drive.google.com/drive/folders/1y69_V8NzznSSAW5ZG6EtZ1rH-ke50y-0?usp=sharing**
 
-  **[GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/dfe1f1d024e96c27470b0d2d772224a2a1cc6f13/Dopoln**
+  **[GIT] - https://github.com/scriperirk/GitDiplomFinal/tree/b780483aa64730e1a783a5de152e1c5625ca8c28/Dopoln**
 
 
 ## Шаги запуска тестирования
