@@ -78,7 +78,7 @@ public class AutorizationTest {
   @Test
   @DisplayName("Ат6 Авторизация с использованием пробелов в логине или пароле")
   public void spaceAtTheEndLoginAndCorrectPasswordAuthorizationTest() {
-    AutorizationPageSteps.login("login2 ", correctPassword);
+    AutorizationPageSteps.login("login 2 ", correctPassword);
     AutorizationPageSteps.loginOrPasswordIsWrong();
   }
 }

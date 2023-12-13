@@ -100,8 +100,9 @@ dependencies {
     implementation 'com.google.firebase:firebase-crashlytics-ktx'
 
     testImplementation 'junit:junit:4.+'
-    testImplementation 'io.qameta.allure:allure-junit4:2.17.0'
-    testImplementation 'io.qameta.allure:allure-java-commons:2.17.0'
+    testImplementation 'io.qameta.allure:allure-junit4:2.24.0'
+    testImplementation 'io.qameta.allure:allure-java-commons:2.25.0'
+    testImplementation 'io.qameta.allure:allure-commandline:2.25.0'
 
     implementation group: 'net.datafaker', name: 'datafaker', version: '1.8.1'
     implementation 'com.squareup.okhttp3:okhttp:4.9.1'
